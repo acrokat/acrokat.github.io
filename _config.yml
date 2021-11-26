@@ -1,13 +1,13 @@
 # Site settings
-title: Katherine Kampf
-description: Product Manager
+title: katherine kampf
+description: product manager
 baseurl: "/"
 url: acrokat.github.io
 
 # User settings
-username: Katherine Kampf
+username: katherine kampf
 user_description: Product Manager passionate about connecting people through technology. Previous experience with EdTech, Big Data, AI, gaming, and Python.
-user_title: Product Manager - acrokat
+user_title: product manager - acrokat
 email: kvkampf@gmail.com
 twitter_username: hardworkingpm
 github_username:  acrokat
