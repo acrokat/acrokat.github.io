@@ -1,7 +1,7 @@
 # Site settings
 title: Katherine Kampf
 description: Product Manager
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/"
 url: acrokat.github.io
 
 # User settings
