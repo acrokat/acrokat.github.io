@@ -18,3 +18,13 @@ google-analytics:
   id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+# carousel setup
+carousels:
+  - images: 
+    - image: /assets/img/headshot.png
+    - image: /assets/img/mountains.jpg
+    - image: /assets/img/mountains.jpg
+    - image: /assets/img/mountains.jpg
+  - images: 
+    - image: /assets/img/mountains.jpg
