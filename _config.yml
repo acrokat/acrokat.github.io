@@ -1,19 +1,19 @@
 # Site settings
-title: katherine kampf
-description: product manager
+title: Katherine Kampf
+description: Product Manager
 # baseurl: "/"
 url: acrokat.me
 
 # User settings
-username: katherine kampf
+username: Katherine Kampf
 user_description: Product Manager passionate about connecting people through technology. Previous experience with EdTech, Big Data, AI, gaming, and Python.
 user_title: product manager - acrokat
 email: kvkampf@gmail.com
-twitter_username: hardworkingpm
+twitter_username: acrokatto
 github_username:  acrokat
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "G-4VNKH7V8X7"
 
 exclude: ['package.json', 'src' , 'node_modules']
