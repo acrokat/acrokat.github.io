@@ -57,12 +57,31 @@
 
 .images-left {
   @media only screen and (min-width: $cut) {
-    float: center;
+    float: left;
     width: 48%;
   }
   img {
     @media only screen and (min-width: $cut) {
-      float: center;
+      float: left;
+    }
+  }
+}
+
+.images-center {
+  @media only screen and (min-width: $cut) {
+    float: left;
+    width: 48%;
+  }
+  img {
+    @media only screen and (min-width: $cut) {
+      width:200px;
+      height:200px;
+      position: fixed;
+      background-color: blue;
+      top: 50%;
+      left: 50%;
+      margin-top: -100px;
+      margin-left: -100px;
     }
   }
 }
