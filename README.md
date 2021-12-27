@@ -13,4 +13,4 @@ Create a new repo from [Particle](https://github.com/nrandecker/particle) named 
 - Run: `gulp`
 
 ## Credits
-Thank you to @nrandecker for [Particle](https://github.com/nrandecker/particle)
+Thank you to [@nrandecker](https://github.com/nrandecker) for [Particle](https://github.com/nrandecker/particle)
