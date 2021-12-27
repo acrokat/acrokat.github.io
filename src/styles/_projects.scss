@@ -74,14 +74,7 @@
   }
   img {
     @media only screen and (min-width: $cut) {
-      width:200px;
-      height:200px;
-      position: fixed;
-      background-color: blue;
-      top: 50%;
-      left: 50%;
-      margin-top: -100px;
-      margin-left: -100px;
+      float: left;
     }
   }
 }
