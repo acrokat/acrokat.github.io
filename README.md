@@ -1,5 +1,5 @@
 # acrokat's personal site! 
-## Built with the Particle Jekyll Theme and GitHub Pages
+#### Built with the Particle Jekyll Theme and GitHub Pages
 
 ## Using with GitHub Pages
 Create a new repo from [Particle](https://github.com/nrandecker/particle) named in the GitHub Pages username.github.io style to get started! Pages will autobuild your site on each new commit. More info on [Pages](https://pages.github.com/) 
