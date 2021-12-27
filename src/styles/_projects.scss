@@ -67,17 +67,6 @@
   }
 }
 
-.images-center {
-  @media only screen and (min-width: $cut) {
-    float: left;
-    width: 48%;
-  }
-  img {
-    @media only screen and (min-width: $cut) {
-      float: left;
-    }
-  }
-}
 
 .project-link {
   display: inline-block;
