@@ -42,3 +42,12 @@ a img {
 sup, sub {
     line-height: 0;
 }
+/* unvisited link */
+a:link {
+  color: #8072c2;
+}
+
+/* visited link */
+a:visited {
+  color: #b7a0de;
+}
