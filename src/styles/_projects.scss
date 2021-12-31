@@ -27,7 +27,14 @@
   p {
     margin-right: 5px;
   }
-  
+  a {
+    color: $main;
+    &:hover{
+      color: $sec;
+    }
+    &:active {
+      color: $sec;
+    }
 }
 
 .contents {
